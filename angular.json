@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "calendar"
+    }
+  },
+  "defaultProject": "calendar",
+  "cli": {
+    "analytics": "ae520760-75c5-42cd-80b2-ae930aeae14d"
+  }
 }
